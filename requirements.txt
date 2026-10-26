@@ -1,0 +1,11 @@
+# Install the CPU build of PyTorch first:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch>=2.14
+torchvision>=0.29
+transformers>=5.20
+opencv-python>=4.13
+numpy>=2.4
+scipy>=1.18
+scikit-image>=0.26
+pillow>=12.2
+mpremote>=1.29
